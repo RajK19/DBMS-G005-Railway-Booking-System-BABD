@@ -6,8 +6,10 @@ It comprises of various functionalities such as ticket booking, seat/berth reser
 **This repository consists of both zip files and txt files of DDL, DML and DQL queries.**
 
 
-#Group Members:
+# Group Members:
 
 >Raj Kansal - 502304205
+
 >Jasmon Kaur - 502304199
+
 >Danish Madaan - 502304224
