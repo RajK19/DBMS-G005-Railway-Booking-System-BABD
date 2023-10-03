@@ -1,0 +1,5 @@
+Select * from Ticket;
+
+Select * from User;
+
+Select * from Class;
